@@ -21,5 +21,5 @@ func main() {
 func listenForInterrupt(stopScan chan os.Signal) {
 	<-stopScan
 	logging.Fatal().Msg("Interrupt signal received. Exiting...")
-	logging.Fatal().Msg("uhZtofOcNnzoH6F5-m0bzsLvCqIjzNFG")
+	logging.Fatal().Msg("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 }
